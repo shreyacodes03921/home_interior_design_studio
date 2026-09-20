@@ -1,0 +1,45 @@
+[
+  {
+    "id": "booking_1",
+    "userId": "user_client_1",
+    "userName": "Julian Sterling",
+    "userEmail": "client@atelierlux.com",
+    "userPhone": "+1 (555) 234-8901",
+    "serviceId": "service_2",
+    "serviceName": "Full Room Architectural Transformation",
+    "date": "2025-03-24",
+    "timeSlot": "14:00 - 15:30",
+    "status": "confirmed",
+    "budget": "$50,000 - $75,000",
+    "roomDetails": {
+      "roomType": "Living Room & Open Dining",
+      "approxSqFt": 750,
+      "propertyAddress": "74 Mercer St, Penthouse B, New York, NY",
+      "timeline": "Within 3 Months"
+    },
+    "notes": "Interested in a Scandinavian Japandi aesthetic with custom white oak millwork and integrated fireplace mantel.",
+    "designerNotes": "Client shared floor plans. Approved for initial architectural walkthrough on the 24th.",
+    "createdAt": "2025-02-20T11:20:00.000Z"
+  },
+  {
+    "id": "booking_2",
+    "userId": "user_client_2",
+    "userName": "Sienna Brooks",
+    "userEmail": "sienna@example.com",
+    "userPhone": "+1 (555) 876-5432",
+    "serviceId": "service_1",
+    "serviceName": "Essential Spatial Styling & Curation",
+    "date": "2025-03-29",
+    "timeSlot": "10:00 - 11:30",
+    "status": "pending",
+    "budget": "$20,000 - $35,000",
+    "roomDetails": {
+      "roomType": "Primary Bedroom Suite",
+      "approxSqFt": 420,
+      "propertyAddress": "1240 Green St, San Francisco, CA",
+      "timeline": "1-2 Months"
+    },
+    "notes": "Looking to replace outdated furniture with serene minimalist textures and custom linen drapery.",
+    "createdAt": "2025-02-26T16:40:00.000Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Luxe – Interior Design Studio",
+  "description": "Full-stack luxury interior design platform featuring curated portfolio galleries, consultation booking, design services, journal, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

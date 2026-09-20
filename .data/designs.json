@@ -1,0 +1,246 @@
+[
+  {
+    "id": "design_1",
+    "title": "The Kyoto Villa Residence",
+    "category": "Living Room",
+    "roomType": "living-room",
+    "style": "Scandinavian Japandi",
+    "images": [
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "description": "A serene harmony of Nordic simplicity and Japanese craftsmanship. Features limewash plaster walls, low-profile custom white oak cabinetry, artisanal washi paper lanterns, and tactile linen bouclé upholstery that maximizes organic daylight.",
+    "tags": [
+      "Minimalist",
+      "Japandi",
+      "Linen",
+      "Oak Wood",
+      "Calm Living",
+      "Natural Light"
+    ],
+    "designerId": "user_admin_1",
+    "designerName": "Eleanor Vance",
+    "areaSqFt": 620,
+    "yearCompleted": 2024,
+    "budgetRange": "$45,000 - $65,000",
+    "featured": true,
+    "viewCount": 1420,
+    "createdAt": "2025-01-10T12:00:00.000Z",
+    "palette": [
+      "#EFECE6",
+      "#C7B299",
+      "#8C7A6B",
+      "#2C2B29"
+    ],
+    "materials": [
+      "Natural White Oak",
+      "Hand-applied Limewash",
+      "Belgian Linen",
+      "Travertine Stone"
+    ]
+  },
+  {
+    "id": "design_2",
+    "title": "Tribeca High-Ceiling Master Suite",
+    "category": "Bedroom",
+    "roomType": "bedroom",
+    "style": "Contemporary Luxury",
+    "images": [
+      "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1540518614846-7ede433c4ef0?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "description": "An expansive master suite sanctuary in a historic Manhattan loft. Styled with custom upholstered channeled velvet headboards, integrated architectural cove lighting, bespoke fluted walnut dressers, and silk-wool area rugs.",
+    "tags": [
+      "Primary Suite",
+      "Velvet",
+      "Luxury",
+      "Loft",
+      "Fluted Wood",
+      "Mood Lighting"
+    ],
+    "designerId": "user_admin_1",
+    "designerName": "Eleanor Vance",
+    "areaSqFt": 540,
+    "yearCompleted": 2024,
+    "budgetRange": "$50,000 - $75,000",
+    "featured": true,
+    "viewCount": 980,
+    "createdAt": "2025-01-18T15:00:00.000Z",
+    "palette": [
+      "#F5F3EF",
+      "#D4CDC5",
+      "#5E524D",
+      "#1A1817"
+    ],
+    "materials": [
+      "Smoked Walnut",
+      "Mohair Velvet",
+      "Hand-loomed Silk Wool",
+      "Brushed Brass"
+    ]
+  },
+  {
+    "id": "design_3",
+    "title": "Monolithic Calacatta Culinary Haven",
+    "category": "Kitchen",
+    "roomType": "kitchen",
+    "style": "Modern Minimalist",
+    "images": [
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "description": "A statement kitchen anchored by a seamless 14-foot Calacatta marble waterfall island, concealed pocket doors, Gaggenau induction suites, and matte charcoal oak cabinetry engineered for Michelin-worthy culinary flow.",
+    "tags": [
+      "Calacatta Marble",
+      "Waterfall Island",
+      "Modern Kitchen",
+      "Integrated Appliances",
+      "Hidden Storage"
+    ],
+    "designerId": "user_admin_1",
+    "designerName": "Eleanor Vance",
+    "areaSqFt": 480,
+    "yearCompleted": 2024,
+    "budgetRange": "$80,000 - $120,000",
+    "featured": true,
+    "viewCount": 1840,
+    "createdAt": "2025-02-01T11:00:00.000Z",
+    "palette": [
+      "#FFFFFF",
+      "#E8E8E8",
+      "#888888",
+      "#1F2022"
+    ],
+    "materials": [
+      "Calacatta Marble",
+      "Matte Lacquer",
+      "Charcoal Oak",
+      "Patinated Bronze"
+    ]
+  },
+  {
+    "id": "design_4",
+    "title": "Pacific Heights Executive Library & Atelier",
+    "category": "Office",
+    "roomType": "office",
+    "style": "Mid-Century Modern",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "description": "Designed for high-focus intellectual work, this private library pairs floor-to-ceiling book matched teak shelving with cognac aniline leather seating, sculptural cast-bronze lighting, and acoustic slat paneling.",
+    "tags": [
+      "Home Office",
+      "Teak Shelving",
+      "Mid-Century",
+      "Leather",
+      "Acoustics",
+      "Ergonomic"
+    ],
+    "designerId": "user_admin_1",
+    "designerName": "Marcus Sterling",
+    "areaSqFt": 380,
+    "yearCompleted": 2023,
+    "budgetRange": "$35,000 - $55,000",
+    "featured": false,
+    "viewCount": 760,
+    "createdAt": "2025-02-10T16:00:00.000Z",
+    "palette": [
+      "#EBE6DD",
+      "#A87C4F",
+      "#4D3626",
+      "#26211C"
+    ],
+    "materials": [
+      "Warm Teak",
+      "Aniline Cognac Leather",
+      "Acoustic Wool Felt",
+      "Antique Brass"
+    ]
+  },
+  {
+    "id": "design_5",
+    "title": "The Roman Bathhouse Oasis",
+    "category": "Bathroom",
+    "roomType": "bathroom",
+    "style": "Warm Mediterranean",
+    "images": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "description": "Inspired by ancient thermal springs, this wellness-centric bathroom incorporates a hand-carved limestone soaking tub, frameless rainfall showers, tadelakt water-resistant plaster walls, and hidden radiant heat floors.",
+    "tags": [
+      "Spa Bathroom",
+      "Freestanding Tub",
+      "Limestone",
+      "Tadelakt",
+      "Rain Shower",
+      "Sanctuary"
+    ],
+    "designerId": "user_admin_1",
+    "designerName": "Sophia Laurent",
+    "areaSqFt": 290,
+    "yearCompleted": 2024,
+    "budgetRange": "$40,000 - $60,000",
+    "featured": true,
+    "viewCount": 1150,
+    "createdAt": "2025-02-14T08:30:00.000Z",
+    "palette": [
+      "#F7F4EE",
+      "#DFD7C7",
+      "#A39987",
+      "#544F47"
+    ],
+    "materials": [
+      "Dordogne Limestone",
+      "Waterproof Tadelakt",
+      "Raw Brass Plumbing",
+      "Cypress Wood"
+    ]
+  },
+  {
+    "id": "design_6",
+    "title": "Haussmannian Salon & Formal Dining",
+    "category": "Dining Room",
+    "roomType": "dining-room",
+    "style": "Traditional Elegant",
+    "images": [
+      "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1600&q=80"
+    ],
+    "description": "Classic 19th-century Parisian architecture revitalized for contemporary dinners. Restored chevron parquet, ornate boiserie wall paneling, a monumental smoked-oak dining table for twelve, and a hand-blown Murano glass chandelier.",
+    "tags": [
+      "Formal Dining",
+      "Chevron Parquet",
+      "Boiserie",
+      "Chandelier",
+      "European Classic"
+    ],
+    "designerId": "user_admin_1",
+    "designerName": "Sophia Laurent",
+    "areaSqFt": 510,
+    "yearCompleted": 2023,
+    "budgetRange": "$55,000 - $85,000",
+    "featured": false,
+    "viewCount": 890,
+    "createdAt": "2025-02-22T13:45:00.000Z",
+    "palette": [
+      "#FCFAF7",
+      "#E5DDD3",
+      "#948777",
+      "#332E29"
+    ],
+    "materials": [
+      "Aged French Oak",
+      "Gilded Mirror Finishes",
+      "Murano Crystal",
+      "Raw Silk Drapes"
+    ]
+  }
+]

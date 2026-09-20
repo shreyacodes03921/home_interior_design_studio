@@ -1,0 +1,55 @@
+[
+  {
+    "id": "user_admin_1",
+    "name": "Eleanor Vance",
+    "email": "admin@atelierlux.com",
+    "passwordHash": "$2b$10$ihfAgoxTQL36ED8ribNcDexSHJVjQ/klFiDYSNgWYd5N2rTBqSo02",
+    "role": "admin",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "title": "Principal Creative Director",
+    "wishlist": [
+      "design_1",
+      "design_3"
+    ],
+    "status": "active",
+    "createdAt": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "user_client_1",
+    "name": "Julian Sterling",
+    "email": "client@atelierlux.com",
+    "passwordHash": "$2b$10$D5YEieqzDsMvrmRHRpBpoONHnSBKMlIN7WRBdWaz6mU.2fN7teTEW",
+    "role": "user",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "wishlist": [
+      "design_2",
+      "design_4",
+      "design_5"
+    ],
+    "phone": "+1 (555) 234-8901",
+    "preferences": {
+      "preferredStyle": "Scandinavian Japandi",
+      "propertyType": "Penthouse Apartment"
+    },
+    "status": "active",
+    "createdAt": "2025-02-01T14:30:00.000Z"
+  },
+  {
+    "id": "user_client_2",
+    "name": "Sienna Brooks",
+    "email": "sienna@example.com",
+    "passwordHash": "$2b$10$lkofZn6GOZr6y0qbFbZPQO/f43OGm.7nFguWygpB0rcBIS1VJ6LVe",
+    "role": "user",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+    "wishlist": [
+      "design_1"
+    ],
+    "phone": "+1 (555) 876-5432",
+    "preferences": {
+      "preferredStyle": "Warm Minimalist",
+      "propertyType": "Single Family Villa"
+    },
+    "status": "active",
+    "createdAt": "2025-02-18T09:15:00.000Z"
+  }
+]
